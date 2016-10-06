@@ -1,6 +1,6 @@
 # mcs-sparsematrix
 
-Exam project: Metodi del Calcolo Scientifico (2015/16)
+Exam project: Metodi del Calcolo Scientifico (2015/16) - University of Milan Bicocca
 
 ### Project: First Part
 **Target:** solve sparse matrix, calculate time and space required to solve, relative error and compare between different languages (Python and MATLAB)
