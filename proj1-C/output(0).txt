@@ -1,0 +1,66 @@
+
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/ns3Da.mtx
+rows: 20414
+columns: 20414
+Non zero elements: 1679599
+Solution time: 23978 ms
+Relative error: 0.000000000000009331025159945022
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/poisson2D.mtx
+rows: 367
+columns: 367
+Non zero elements: 2417
+Solution time: 2 ms
+Relative error: 0.000000000000000528264683190017
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/poisson3Da.mtx
+rows: 13514
+columns: 13514
+Non zero elements: 352762
+Solution time: 11399 ms
+Relative error: 0.000000000000018757827391391423
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/poisson3Db.mtx
+rows: 85623
+columns: 85623
+Non zero elements: 2374949
+Solution time: 717238 ms
+Relative error: 0.000000000000140905692159807741
+Memory usage: 0
+	
+MATRIX: /mcs/sparse_matrix/FEMLAB/problem1.mtx
+rows: 415
+columns: 415
+Non zero elements: 2779
+Solution time: 8 ms
+Relative error: 0.281960227272712526946918387694
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/sme3Da.mtx
+rows: 12504
+columns: 12504
+Non zero elements: 874887
+Solution time: 2017 ms
+Relative error: 0.000000000009084242135947945119
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/sme3Db.mtx
+rows: 29067
+columns: 29067
+Non zero elements: 2081063
+Solution time: 15736 ms
+Relative error: 0.000000000018145161579272028700
+Memory usage: 0
+
+MATRIX: /mcs/sparse_matrix/FEMLAB/sme3Dc.mtx
+rows: 42930
+columns: 42930
+Non zero elements: 3148656
+Solution time: 20441 ms
+Relative error: 0.000000000008523234575219077290
+Memory usage: 0
+
